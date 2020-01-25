@@ -8,5 +8,3 @@ def find_divisor_of_num(number):
 
 
 find_divisor_of_num(int(input('введите число')))
-
-print('hallo world')
